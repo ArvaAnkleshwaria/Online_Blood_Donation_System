@@ -1,0 +1,48 @@
+﻿@model BloodDonationWebapp.Models.UserTypeMV
+
+@{
+    ViewBag.Title = "User Type";
+}
+
+<div class="col-md-6">
+
+
+    <div class="contact-form-block">
+
+        <h2 class="contact-title">Edit UserType</h2>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.UserTypeID)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.UseType, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.UseType, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.UseType, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+
+                Enter User Type:
+                @Html.EditorFor(model => model.UseType, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UseType, "", new { @class = "text-danger" })
+
+            </div>
+
+
+            <div class="form-group">
+
+                <input type="submit" style="float:right" value="Update" class="btn btn-theme" />
+                @Html.ActionLink("Back", "AllUserType", null, new { @class = "btn btn-theme-invert" })
+
+            </div>
+
+        }
+    </div>
+</div>

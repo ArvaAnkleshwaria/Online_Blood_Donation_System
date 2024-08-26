@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\blooddonationwebapp\\views\\bloodgroups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\views\\bloodgroups\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|d:\\online blood donation system\\application\\onlineblooddonationwebsite\\blooddonationwebapp\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\blooddonationwebapp\\views\\bloodgroups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\views\\bloodgroups\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\blooddonationwebapp\\views\\bloodgroups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\views\\bloodgroups\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|d:\\online blood donation system\\application\\onlineblooddonationwebsite\\blooddonationwebapp\\views\\requesttype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\views\\requesttype\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|d:\\online blood donation system\\application\\onlineblooddonationwebsite\\blooddonationwebapp\\controllers\\requesttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\controllers\\requesttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|d:\\online blood donation system\\application\\onlineblooddonationwebsite\\blooddonationwebapp\\models\\requesttypemv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9746B6E1-0434-40D3-9E3D-B1C6D4DE4F3D}|BloodDonationWebapp\\BloodDonationWebapp.csproj|solutionrelative:blooddonationwebapp\\models\\requesttypemv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\RequestType\\Create.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Views\\RequestType\\Create.cshtml",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\RequestType\\Create.cshtml",
+              "RelativeToolTip": "BloodDonationWebapp\\Views\\RequestType\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T06:08:09.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestTypeController.cs",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers\\RequestTypeController.cs",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Controllers\\RequestTypeController.cs",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers\\RequestTypeController.cs",
+              "RelativeToolTip": "BloodDonationWebapp\\Controllers\\RequestTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:07:58.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestTypeMV.cs",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Models\\RequestTypeMV.cs",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Models\\RequestTypeMV.cs",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Models\\RequestTypeMV.cs",
+              "RelativeToolTip": "BloodDonationWebapp\\Models\\RequestTypeMV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:07:56.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Views\\BloodGroups\\Delete.cshtml",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Delete.cshtml",
+              "RelativeToolTip": "BloodDonationWebapp\\Views\\BloodGroups\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T07:06:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Create.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Views\\BloodGroups\\Create.cshtml",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Create.cshtml",
+              "RelativeToolTip": "BloodDonationWebapp\\Views\\BloodGroups\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T07:05:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Views\\BloodGroups\\Edit.cshtml",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\BloodGroups\\Edit.cshtml",
+              "RelativeToolTip": "BloodDonationWebapp\\Views\\BloodGroups\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T10:26:39.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloodGroupsController.cs",
+              "DocumentMoniker": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers\\BloodGroupsController.cs",
+              "RelativeDocumentMoniker": "BloodDonationWebapp\\Controllers\\BloodGroupsController.cs",
+              "ToolTip": "D:\\Online Blood Donation System\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers\\BloodGroupsController.cs",
+              "RelativeToolTip": "BloodDonationWebapp\\Controllers\\BloodGroupsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:20:51.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
