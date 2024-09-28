@@ -1,0 +1,33 @@
+﻿@model BloodDonationWebapp.Models.UserTypeMV
+
+@{
+    ViewBag.Title = "User Type";
+}
+
+
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>User Type</h4>
+    <hr />
+    <dl class="contact-form-block">
+        <dt>
+            @Html.DisplayNameFor(model => model.UseType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UseType)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back", "AllUserType", null, new { @class = "btn btn-theme-invert" })
+        </div>
+    }
+</div>

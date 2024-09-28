@@ -1,0 +1,96 @@
+﻿@model IEnumerable<DatabaseLayer.CampaignTable>
+
+@{
+    ViewBag.Title = "Campaigns";
+}
+
+<div class="col-md-12">
+
+
+    <div class="contact-form-block">
+
+        <h2 class="contact-title">Blood Bank Campaign</h2>
+
+        <p>
+            @Html.ActionLink("New Campaign", "NewCampaign", null, new { @class = "btn btn-theme" })
+            @Html.ActionLink("Campaign History", "CampaignHistory", null, new { @class = "btn btn-theme" })
+        </p>
+        @if (Model != null)
+        {
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    Campaign Title
+                </th>
+                <th>
+                    Campaign Banner
+                </th>
+                <th>
+                    Campaign Date
+                </th>
+                <th>
+                    Start Time
+                </th>
+                <th>
+                    End Time
+                </th>
+                <th>
+                    Location
+                </th>
+                <th>
+                    Campaign Details
+                </th>
+                <th>
+                    BloodBank Name
+                </th>
+              
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                if (Model != null)
+                
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Campaign)
+                        </td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(item.CampaignPhoto))
+                            {
+                                <img src="@Url.Content(item.CampaignPhoto)" alt="Image"
+                                     style="width:100px;height:150px;max-width:100%;height:auto" />
+                            }
+                            <br>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CampaignDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.StartTime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EndTime)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Location)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CampaignDetails)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.BloodBankTable.BloodBankName)
+                        </td>
+                      
+                    </tr>
+                }
+            }
+
+            </table>
+        }
+        else
+            {
+                <p>No Data Available.</p>
+            }
+        </div>
+    </div>

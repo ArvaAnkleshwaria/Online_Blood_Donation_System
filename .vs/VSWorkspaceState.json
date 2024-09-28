@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\OnlineBloodDonationWebsite",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Models",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\Accounts",
+    "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Views\\Home",
+    "\\Material",
+    "\\Material\\Online Blood Donation Website Template",
+    "\\Material\\Online Blood Donation Website Template\\blood_donation_ activism_and_campaign_html5_template\\blood_donation"
+  ],
+  "SelectedNode": "\\Application\\OnlineBloodDonationWebsite\\BloodDonationWebapp\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
